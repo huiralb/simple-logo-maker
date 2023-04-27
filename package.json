@@ -10,7 +10,9 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "html2canvas": "^1.4.1",
     "pinia": "^2.0.32",
+    "v-drag": "^3.0.9",
     "vue": "^3.2.47"
   },
   "devDependencies": {
